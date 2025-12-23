@@ -2,13 +2,13 @@
 
 A data science project that performs an in-depth exploratory and predictive analysis on a mental health dataset to gain insights into factors affecting mental health and build classification models.
 
-> This repository contains a Kaggle notebook that explores the dataset, performs feature engineering, visualization, and builds predictive models.
+> This repository contains a  notebook that explores the dataset, performs feature engineering, visualization, and builds predictive models.
 
 ---
 
 ## 📌 Dataset
 
-The analysis uses a publicly available **Mental Health Dataset** from Kaggle — containing demographic, behavioral, and survey responses about mental well-being. Typical features include age, gender, workplace/school environment, symptoms, and mental health outcomes. 
+The analysis uses a publicly available **Mental Health Dataset** from Kaggle — containing demographic, behavioral, and survey responses about mental well-being. Typical features include age, gender, workplace/school environment, symptoms, and mental health outcomes.  https://www.kaggle.com/datasets/jiscecseaiml/mental-health-dataset
 
 ---
 
